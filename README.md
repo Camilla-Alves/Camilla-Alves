@@ -1,8 +1,11 @@
-### Olá, Eu sou a Camilla 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB51F7&random=false&width=435&lines=Camilla+Alves.;Desenvolvedora+Full+Stack." alt="Typing SVG" /></a>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Camilla-Alves&show_icons=true&theme=ambient_gradient&rank_icon=github" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla-Alves&layout=compact&theme=ambient_gradient&langs_count=8" height="180" /> 
 </div>
+
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
