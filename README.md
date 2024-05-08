@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB51F7&random=false&width=435&lines=Oi!+me+chamo+Camilla+Alves.;Sou+Desenvolvedora+Full+Stack." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&pause=1000&color=EB51F7&background=FF000000&random=false&width=435&lines=Oi!+me+chamo+Camilla+Alves.;Sou+Desenvolvedora+Full+Stack." alt="Typing SVG" /></a>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Camilla-Alves&show_icons=true&theme=ambient_gradient&rank_icon=github" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla-Alves&layout=compact&theme=ambient_gradient&langs_count=8" height="180" /> 
