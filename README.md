@@ -30,3 +30,8 @@
   <a href = "mailto:alvescamillagomes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/camilla-gomes-15a257268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![snake gif](https://github.com/Camilla-Alves/Camilla-Alves/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/pin/?username=Camilla-Alves&repo=Camilla-Alves&theme=react)](https://github.com/Camilla-Alves/Camilla-Alves)
